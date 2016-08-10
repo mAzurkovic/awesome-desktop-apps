@@ -7,6 +7,7 @@
 * :penguin: Stands for if the application is available for Linux systems
 * :apple: Is for applications for macOS
 * :house: Stands for applications for the Windowd operating system
+
 > If you are looking to contribute, please read [the following file](https://github.com/mAzurkovic/awesome-desktop-apps/blob/master/CONTRIBUTING.md) thanks!
 
 
