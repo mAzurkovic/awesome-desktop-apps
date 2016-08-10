@@ -38,8 +38,10 @@
 
 
 ## Audio
+
 ### Audio Editors
 * [Audacity](http://www.audacityteam.org/) - Audacity is free, open source, cross-platform audio software for multi-track recording and editing. :penguin: :apple: :house:
+
 ### Audio Players
 * [foobar2000](http://www.foobar2000.org/)- An advanced freeware audio player for the Windows platform. :house:
 * [iTunes](http://www.apple.com/itunes/) - A great way to organize and enjoy the music you already have — and shop for the ones you want to get. :apple: :house:
