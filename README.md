@@ -45,8 +45,10 @@
 * [iTunes](http://www.apple.com/itunes/) - A great way to organize and enjoy the music you already have — and shop for the ones you want to get. :apple: :house:
 * [MediaMonkey](http://www.mediamonkey.com/?ClickID=dytwcykx0w2xoyxbwocwb0ytownyrrnkzxhr) - A fully featured desktop media player. :house:
 * [Winamp](http://www.winamp.com/) - A fully customizable and quality desktop audio player. :apple: :house:
+
 ### Audio Streaming
 * [Spotify](https://www.spotify.com/br/) - The leading music streaming application/service. :penguin: :apple: :house:
+
 ## Cloud
 
 ## Data Backup
