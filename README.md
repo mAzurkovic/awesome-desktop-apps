@@ -4,9 +4,9 @@
 ![Monkey](https://cdn0.iconfinder.com/data/icons/octicons/1024/device-desktop-128.png)
 
 #### Legend
-* :penguin: Stands for if the application is available for Linux systems
-* :apple: Is for applications for macOS
-* :house: Stands for applications for the Windowd operating system
+* :penguin: Stands for if the application is available for **Linux** systems
+* :apple: Is for applications for **macOS**
+* :house: Stands for applications for the **Windows** operating system
 
 > If you are looking to contribute, please read [the following file](https://github.com/mAzurkovic/awesome-desktop-apps/blob/master/CONTRIBUTING.md) thanks!
 
@@ -57,12 +57,26 @@
 ## Data Backup
 
 ## Development
+
 ### Command Line
+
+* [iTerm2](https://www.iterm2.com/) - iTerm2 brings the terminal into the modern age with features you never knew you always wanted. :apple:
+* [Termintor](https://launchpad.net/terminator) - A fully customizable and robust replacment for the default terminal. :penguin:
+
 ### Debugging
 ### Emulators
+
+* [Genymotion](https://www.genymotion.com/) - A fast and reliable Android emulator perfect for app development and debugging. :penguin: :apple: :house:
+
 ### Text Editors
 
+* [Emacs](https://www.gnu.org/software/emacs/) - Emacs is a fast and efficient text editor. :penguin: :apple: :house:
+* [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. Also, has many great features and shortcuts. :penguin: :apple: :house:
+* [Vim](http://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient. :penguin: :apple: :house:
+
 ## Email
+
+* [Outlook](https://www.microsoft.com/en-us/outlook-com/) - Arrange and organize all of your emails with one powerful application. :apple: :house:
 
 ## Entertainment
 ### Games
