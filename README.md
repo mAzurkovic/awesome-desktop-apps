@@ -56,6 +56,8 @@
 
 ## Data Backup
 
+* [TimeShift](https://launchpad.net/timeshift) - TimeShift is a system restore utility which takes incremental snapshots of the system using rsync and hard-links. These snapshots can be restored at a later date to undo all changes that were made to the system after the snapshot was taken. Snapshots can be taken manually or at regular intervals using scheduled jobs. :penguin:
+
 ## Development
 
 ### Command Line
@@ -64,6 +66,9 @@
 * [Termintor](https://launchpad.net/terminator) - A fully customizable and robust replacment for the default terminal. :penguin:
 
 ### Debugging
+
+* [Android ADT](https://developer.android.com/studio/tools/sdk/eclipse-adt.html) - Android Developer Tools (ADT) is a plugin for Eclipse that provides GUI-based access to many of the command-line Android SDK tools. :penguin: :apple: :house:
+
 ### Emulators
 
 * [Genymotion](https://www.genymotion.com/) - A fast and reliable Android emulator perfect for app development and debugging. :penguin: :apple: :house:
@@ -79,12 +84,19 @@
 * [Outlook](https://www.microsoft.com/en-us/outlook-com/) - Arrange and organize all of your emails with one powerful application. :apple: :house:
 
 ## Entertainment
+
 ### Games
+
+
 ### Game Platforms
+* [Steam](https://steamcommunity.com/) - A desktop gaming platform that gives access to thousands of games. :penguin: :apple: :house:
 
 ## Photo
+
 ### Photo Editors
+
 ### Photo Viewers
+
 
 ## Video
 ### Video Editors
