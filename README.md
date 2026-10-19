@@ -76,6 +76,7 @@
 ### Text Editors
 
 * [Emacs](https://www.gnu.org/software/emacs/) - Emacs is a fast and efficient text editor. :penguin: :apple: :house:
+* [Glim](https://github.com/NeoPanic/Glim) - Open-source file viewer and basic UTF-8 text editor with Markdown, diagram and Git diff previews. :apple:
 * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. Also, has many great features and shortcuts. :penguin: :apple: :house:
 * [Vim](http://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient. :penguin: :apple: :house:
 
